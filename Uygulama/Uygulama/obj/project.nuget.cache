@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXamlJa6cygeXdcmY2YK/beJCOYE8QlIyPjmQ8KI6kZ4ln8T+ZZ2y7fcS2ufWdRrWm+w0zrwxAKnFoPLDDzx0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolga\\OneDrive\\Masaüstü\\Gerekli Olanlar\\Dosya\\Uygulama\\Uygulama\\Uygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolga\\.nuget\\packages\\fontawesome.sharp\\6.1.1\\fontawesome.sharp.6.1.1.nupkg.sha512",
+    "C:\\Users\\tolga\\.nuget\\packages\\fontawesome.sharp.pro\\6.1.1\\fontawesome.sharp.pro.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
